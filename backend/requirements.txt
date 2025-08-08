@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+pydantic-settings
+PyJWT[crypto]>=2.8.0
+python-multipart>=0.0.6
